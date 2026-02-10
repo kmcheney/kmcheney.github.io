@@ -1,0 +1,138 @@
+body {
+    background-color: lightgray;
+}
+div {
+    width: 100%;
+    float: let;
+}
+div div {
+    width: 45%;
+    padding: 2.5%;
+    float: left;
+}
+div div div {
+    float: left;
+}
+
+#header {
+    text-align: center;
+}
+.picdesc {
+    text-align: center;
+}
+.links {
+    text-align: left;
+}
+.otherlinks {
+    text-align: center;
+}
+#bottomone {
+    padding: 0px 25px;
+}
+#bottomtwo {
+    padding: 0px 25px;
+}
+#bottomthree {
+    padding: 0px 25px;
+}
+#bottomfour {
+    padding: 0px 25px;
+}
+#bottomfive {
+    padding: 0px 25px;
+}
+#bottomsix {
+    padding: 0px 25px;
+}
+#bottomseven {
+    padding: 0px 25px;
+}
+#linkone {
+    padding: 25px;
+}
+#linktwo {
+    padding: 25px;
+}
+#linkthree {
+    padding: 25px;
+}
+#linkfour {
+    padding: 25px;
+}
+#h2one {
+    width: 100%;
+    height: 1px;
+    padding: 20px;
+}
+#hrone {
+    width: 70%;
+    float: left;
+    margin: 0% 20%;
+}
+#pone {
+    width: 100%;
+    height: 200px;
+    float: center;
+    padding: 25px;
+    text-align: left;
+}
+#imageone {
+    width: 100%;
+    float: left;
+}
+#h2two {
+    width: 100%;
+    height: 1px;
+    padding: 20px;
+}
+#hrtwo {
+    width: 70%;
+    float: left;
+    margin: 0% 20%;
+}
+#ptwo {
+    width: 100%;
+    height: 200px;
+    float: center;
+    padding: 25px;
+    text-align: left;
+}
+#imagetwo {
+    width: 100%;
+    float: left;
+}
+#imagethree {
+    width: 100%;
+    float: left;
+}
+#h2three {
+    width: 100%;
+    height: 1px;
+    padding: 20px;
+}
+#hrthree {
+    width: 70%;
+    float: left;
+    margin: 0% 20%;
+}
+#pthree {
+    width: 100%;
+    height: 200px;
+    float: center;
+    padding: 25px;;
+    text-align: left;
+}
+#h2four {
+    width: 100%;
+    height: 1px;
+    padding: 20px;
+    text-align: center;
+}
+#hrfour {
+    width: 70%;
+    float: left;
+    margin: 2% 20%;
+}
+.houses {
+    text-align: center;
+}
