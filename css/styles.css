@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+button {
+    width: 30%;
+    padding: 37px 10px;
+    margin: 10px;
+    background-color: rgb(176, 183, 179);
+    border-radius: 12px;
+}
+body {
+    background-color: rgb(231, 236, 232);
+    float: center;
+    text-align: center;
+}
+.fb {
+    width: 15%;
+    padding: 16px;
+}
+.h {
+    width: 15%;
+    padding: 16px;
+}
+div {
+    display: flex;
+    justify-content: flex-end;
+}
