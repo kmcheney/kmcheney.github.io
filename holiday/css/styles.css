@@ -1,0 +1,44 @@
+header {
+    text-align: center;
+    background-color: rgb(235, 235, 235);
+}
+section.top {
+    background-color: rgb(177, 177, 177);
+    height: 500px;
+}
+div.diagonal {
+    width: 0px;
+    height: 0px;
+    border-right: 100vw solid transparent;
+    border-bottom: 13.9vw solid rgb(255, 255, 255);
+    margin-top: -13.9vw;
+}
+section.bottom {
+    background-color: rgb(255, 255, 255);
+}
+img.hat {
+    height: 350px;
+    width: 350px;
+    float: right;
+    margin: 40px;
+}
+img.trees {
+    height: 350px;
+    width: 450px;
+    float: left;
+    margin: 40px;
+}
+h2.trees {
+    float: right;
+    padding: 120px;
+}
+h2.hat {
+    float: left;
+    padding: 100px;
+}
+h1.vs {
+    float: center;
+    position: absolute;
+    top: 58vh;
+    left: 48vw;
+}
