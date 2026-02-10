@@ -1,0 +1,89 @@
+button {
+    background-color: red;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    width: 100px;
+    font-size: 1em;
+    margin: 0px 20px;
+}
+button.in {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border: gray;
+    border-radius: 10px;
+    width: 90px;
+    font-size: 1em;
+}
+button.new {
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+    width: 90px;
+    font-size: 1em;
+}
+button.watch {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    width: 100px;
+    font-size: 1em;
+}
+section.one {
+    width: 24%;
+    float: left;
+    margin: 1%;
+    padding: 1%;
+    
+}
+section.two {
+    width: 34%;
+    float: left;
+    margin: 1%;
+    padding: 1%;
+}
+section.three {
+    width: 24%;
+    float: left;
+    margin: 1%;
+    padding: 1%;
+}
+.img {
+    width: 25%;
+    height: 5%;
+}
+a {
+    text-align: center;
+    padding: 50px;
+}
+img.menu {
+    width: 1%;
+    height: 0.3%;
+}
+img.logo {
+    width: 3%;
+    height: 1.3%;
+    margin: 0% 1%;
+}
+img.arrow {
+    width: 1%;
+    height: 1%;
+    margin-right: 30%;
+}
+.rec *{
+    float: left;
+}
+.rec img{
+    margin-top: 15px;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+img.more {
+    width: 1%;
+    height: 1.5%;
+}
+h1 {
+    font-size: 3em;
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 2%;
+}
