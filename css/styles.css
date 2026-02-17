@@ -3,6 +3,7 @@ h1 {
 }
 p {
     text-align: center;
+    display: block;
 }
 button {
     width: 30%;
@@ -27,4 +28,24 @@ body {
 div {
     display: flex;
     justify-content: flex-end;
+}
+a.btn {
+    width: 400px;
+    height: 150px;
+    border-radius: 30px;
+    background-color: mintcream;
+    margin: 10px;
+    float: left;
+    display: block;
+}
+main {
+    width: 1266px;
+    margin: auto;
+}
+footer {
+    clear: both;
+}
+a :hover{
+    transform: scale(1.023);
+    box-shadow: 3px 6px 6px 0px rgb(0,0,0,.11);
 }
