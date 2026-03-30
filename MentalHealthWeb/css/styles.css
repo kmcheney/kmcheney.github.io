@@ -1,0 +1,61 @@
+img {
+    width: 50%;
+    margin: auto;
+}
+main {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+.h {
+    width: 70%;
+    margin: 0% 13%;
+    float: center;
+    text-align: center;
+}
+.home {
+    padding: 30px;
+    background-color: darkgray;
+    border-radius: 10px;
+    margin: 10px;
+    justify-content: flex-end;
+    display: block;
+    float: center;
+    text-align: center;
+}
+nav a {
+    width: 100%;
+    margin: 20px;
+}
+nav a:hover {
+    background-color: darkgray;
+}
+p {
+    width: 50%;
+    float: center;
+    margin: auto;
+    padding: 2%;
+    background-color: darkgray;
+}
+ul {
+    width: 30%;
+    float: center;
+    margin: auto;
+    padding: 2%;
+    text-align: left;
+    background-color: darkgray;
+}
+button {
+    width: 30%;
+    height: 30%;
+    background-color: darkgray;
+    margin: 10px;
+    padding: 20px 20px;
+    float: center;
+    border-radius: 12px;
+}
+div {
+    width: 70%;
+    float: center;
+    margin: auto;
+}
